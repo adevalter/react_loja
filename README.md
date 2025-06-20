@@ -1,3 +1,41 @@
+
+## Rodando localmente
+
+Clone o projeto da api instale as dependencias e inicie o projeto.
+##api
+```bash
+https://github.com/adevalter/nestjs_api
+```
+```bash
+$ npm install
+```
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+#clone a loja instale as dependencias e inicie o projeto.
+```bash
+https://github.com/adevalter/react_loja.git
+```
+
+```bash
+$ npm install
+```
+
+```bash
+# development
+$ npm run dev
+
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
